@@ -16,3 +16,4 @@ Desenvolvido no [Electron Fiddle](https://www.electronjs.org/pt/fiddle).
 - [axios](https://www.npmjs.com/package/axios) 1.7.2
 - [@jitsi/robotjs](https://www.npmjs.com/package/@jitsi/robotjs) 0.6.13
 - [electron-log](https://www.npmjs.com/package/electron-log) 5.1.5
+ 
