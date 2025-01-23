@@ -15,4 +15,4 @@ Desenvolvido no [Electron Fiddle](https://www.electronjs.org/pt/fiddle).
 - [jimp](https://www.npmjs.com/package/jimp) 1.1.4
 - [@jitsi/robotjs](https://www.npmjs.com/package/@jitsi/robotjs) 0.6.13
 - [electron-log](https://www.npmjs.com/package/electron-log) 5.2.4
- 
+  
